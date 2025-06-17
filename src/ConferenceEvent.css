@@ -270,7 +270,7 @@
   .left_navbar{
     width: 60vw;
     display: flex;
-    gap: 180px;
+    gap: 40px;
   
   }
   .nav_links a {
